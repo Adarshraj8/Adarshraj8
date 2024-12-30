@@ -94,13 +94,13 @@
       </a>
     </td>
     <td>
-      <a href="https://www.youtube.com/watch?v=DACa2_JmVhE&t=598s" target="_blank">
-        <img src="https://ytcards.demolab.com/?id=ZzNP0P35Kio&title=Deploy+Amazon+Prime+Video+Clone+On+EKS+Cluster&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Deploy Amazon Prime Video Clone On EKS Cluster" width="250" style="border-radius:5px;">
+      <a href="https://www.youtube.com/watch?v=JxRwaL4ypNc&t=1s" target="_blank">
+        <img src="https://i.ytimg.com/an_webp/Mb9FunzUcrc/mqdefault_6s.webp?du=3000&sqp=CKeVyrsG&rs=AOn4CLBi1pYuuBQc4qM3jfj1kkS5Mcmc9A" alt="Deploy Amazon Prime Video Clone On EKS Cluster" width="250" style="border-radius:5px;">
       </a>
     </td>
     <td>
       <a href="https://www.youtube.com/watch?v=ZzNP0P35Kio&t=1094s" target="_blank">
-        <img src="https://ytcards.demolab.com/?id=JIkr2VoY960&title=Deploy+Amazon+Prime+Video+Clone+On+Kind+Cluster&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Deploy Amazon Prime Video Clone On Kind Cluster" width="250" style="border-radius:5px;">
+        <img src="https://i.ytimg.com/an_webp/JxRwaL4ypNc/mqdefault_6s.webp?du=3000&sqp=COW1yrsG&rs=AOn4CLAsPZ6P30OjmEhVKFheM2hPUj8-hg" alt="leetcode problem" width="250" style="border-radius:5px;">
       </a>
     </td>
     <td>
