@@ -35,7 +35,7 @@
 ###
 
 <div align="left">
-  <img src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_200x200.png" height="40" alt="amazonwebservices logo"  />
+ 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
@@ -58,11 +58,14 @@
 <div align="left">
    <img src="https://imgcdn.stablediffusionweb.com/2024/4/11/98f847a1-f190-4921-aa36-31e3da461f83.jpg" height="40" alt="html5 logo"  />
   <img width="12" />
+   <img src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_200x200.png" height="40" alt="amazonwebservices logo"  />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIV2jacGTP2z3PC8Cz1DlwKdO3wfXk0F2D5B0LST3W61sUeZWbZv0rFDptLWeMRnfCjo&usqp=CAU" height="40" alt="javascript logo"  />
 </div>
 
 ###
