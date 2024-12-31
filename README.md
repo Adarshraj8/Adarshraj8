@@ -82,7 +82,7 @@
 
 <div align="center">
   <a href="https://www.youtube.com/@14kadarshraj3" target="_blank">
-    <img src="https://i.ytimg.com/vi/VjdOS3rXIGs/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA_Zr6e8U1b3D7kxPYyr2vQuY9VlA" height="25" alt="youtube logo" />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
   </a>
 </div>
 
@@ -103,7 +103,7 @@
     </td>
     <td>
       <a href="https://www.youtube.com/watch?v=ZzNP0P35Kio&t=1094s" target="_blank">
-        <img src="https://i.ytimg.com/an_webp/JxRwaL4ypNc/mqdefault_6s.webp?du=3000&sqp=COW1yrsG&rs=AOn4CLAsPZ6P30OjmEhVKFheM2hPUj8-hg" alt="leetcode problem" width="250" style="border-radius:5px;">
+        <img src="https://i.ytimg.com/vi/VjdOS3rXIGs/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA_Zr6e8U1b3D7kxPYyr2vQuY9VlA" alt="leetcode problem" width="250" style="border-radius:5px;">
       </a>
     </td>
     <td>
