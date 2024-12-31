@@ -75,14 +75,14 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://yt3.googleusercontent.com/Or2rg-RN87ga97FhIAnHWPNFWb8t0ad-XACM1xWJ3JvNjf9QQA-lpcpNfXe5PWqeVrKpnM7fhQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"  />
+  <img height="150" src="https://i.ytimg.com/vi/6bK5F9xhKTc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDpbrIKrwml3W-I7OfxGY3Wbp8Tkw"  />
 </div>
 
 ###
 
 <div align="center">
   <a href="https://www.youtube.com/@14kadarshraj3" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
+    <img src="https://i.ytimg.com/vi/VjdOS3rXIGs/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA_Zr6e8U1b3D7kxPYyr2vQuY9VlA" height="25" alt="youtube logo" />
   </a>
 </div>
 
@@ -93,7 +93,7 @@
   <tr>
     <td>
       <a href="https://www.youtube.com/watch?v=t6B3ICUtnzk&t=12s" target="_blank">
-        <img src="https://i.ytimg.com/an_webp/t6B3ICUtnzk/mqdefault_6s.webp?du=3000&sqp=CP-vyrsG&rs=AOn4CLBkP_gnjmPRt7wUIrcb34x6GNReJA" alt="Leetcode problem solution " width="250" style="border-radius:5px;">
+        <img src="https://i.ytimg.com/vi/rVP82Kc8ies/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDP60EHWU_0924Fai1M2xOpDBmj6w" alt="Leetcode problem solution " width="250" style="border-radius:5px;">
       </a>
     </td>
     <td>
