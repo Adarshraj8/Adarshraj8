@@ -66,7 +66,10 @@
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIV2jacGTP2z3PC8Cz1DlwKdO3wfXk0F2D5B0LST3W61sUeZWbZv0rFDptLWeMRnfCjo&usqp=CAU" height="40" alt="javascript logo"  />
+    <img width="12" />
   <img src="https://img.icons8.com/?size=48&id=wpZmKzk11AzJ&format=png" height="40" alt="typeScript logo"  />
+    <img width="12" />
+   <img src="https://img.icons8.com/?size=48&id=71257&format=png" height="40" alt="Angular logo"  />
 </div>
 
 ###
