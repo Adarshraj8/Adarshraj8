@@ -71,7 +71,9 @@
     <img width="12" />
    <img src="https://img.icons8.com/?size=48&id=71257&format=png" height="40" alt="Angular logo"  />
    <img width="12" />
-   <img src="https://img.icons8.com/?size=48&id=xyhjkXNkutpj&format=png" height="40" alt="Angular logo"  />
+   <img src="https://img.icons8.com/?size=48&id=xyhjkXNkutpj&format=png" height="40" alt="Mysql logo"  />
+    <img width="12" />
+   <img src="https://img.icons8.com/?size=48&id=38561&format=png" height="40" alt="Postgres logo"  />
 </div>
 
 ###
