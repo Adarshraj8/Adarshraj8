@@ -59,6 +59,7 @@
    <img src="https://imgcdn.stablediffusionweb.com/2024/4/11/98f847a1-f190-4921-aa36-31e3da461f83.jpg" height="40" alt="html5 logo"  />
   <img width="12" />
    <img src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_200x200.png" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
