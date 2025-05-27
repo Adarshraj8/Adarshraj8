@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adarsh Raj</h1>
-
+<h2>I am always open to new opportunities which allow me to broaden my horizon, grow, and apply my skill set to impact society positively.</h2>
 ###
 
 <h3 align="center">👩‍💻  Software Engineer</h3>
