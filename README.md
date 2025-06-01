@@ -8,6 +8,15 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Adarshraj8" alt="Adarshraj8" /></a> </p>
 ###
 
+- 🔭 I’m currently working at **Astravista**
+
+- 🌱 I’m currently learning **Softwares and How they work**
+Add commentMore actions
+- 👯 I’m looking to collaborate on **any latest tech (AI, LLMs, Low Level Langs)**
+
+- 👨‍💻 All of my projects are available on Github.
+
+- 💬 Ask me about **My Journey and Development**
 <div align="center">
 <a href="https://www.linkedin.com/in/adarshraj87/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
