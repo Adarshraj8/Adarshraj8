@@ -34,16 +34,11 @@
 - 🌱 I’m currently learning **Softwares and How they work**
 Add commentMore actions
 - 👯 I’m looking to collaborate on **any latest tech (AI, LLMs, Low Level Langs)**
-
 - 👨‍💻 All of my projects are available on Github.
-
-- 💬 Ask me about **My Journey and Development**
-- 
-- <br>👨‍💻 All of my projects are available at https://github.com/Adarshraj8
-- 
-- <br>💬 Ask me about Java and its Framework
-- 
-- <br>📫 Reach out to me at adarshrajgr2016@gmail.com</p>
+- � Ask me about **My Journey and Development**
+- 👨‍💻 All of my projects are available at https://github.com/Adarshraj8
+- 💬 Ask me about Java and its Framework
+- 📫 Reach out to me at adarshrajgr2016@gmail.com</p>
 
 ###
 
