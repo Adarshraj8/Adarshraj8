@@ -8,15 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Adarshraj8" alt="Adarshraj8" /></a> </p>
 ###
 
-- 🔭 I’m currently working at **Astravista**
 
-- 🌱 I’m currently learning **Softwares and How they work**
-Add commentMore actions
-- 👯 I’m looking to collaborate on **any latest tech (AI, LLMs, Low Level Langs)**
-
-- 👨‍💻 All of my projects are available on Github.
-
-- 💬 Ask me about **My Journey and Development**
 <div align="center">
 <a href="https://www.linkedin.com/in/adarshraj87/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
@@ -37,7 +29,15 @@ Add commentMore actions
 
 ###
 
-<p align="left">Hi 👋, I'm Adarsh<br>👩‍💻 Software Engineer<br><br>🌱 I’m currently learning  Docker & Jenkins<br>👨‍💻 All of my projects are available at https://github.com/Adarshraj8<br>💬 Ask me about Java and its Framework ☁️<br>📫 Reach out to me at adarshrajgr2016@gmail.com</p>
+<p align="left">Hi 👋, I'm Adarsh<br>👩‍💻 Software Engineer<br><br>- 🔭 I’m currently working at **Astravista**
+
+- 🌱 I’m currently learning **Softwares and How they work**
+Add commentMore actions
+- 👯 I’m looking to collaborate on **any latest tech (AI, LLMs, Low Level Langs)**
+
+- 👨‍💻 All of my projects are available on Github.
+
+- 💬 Ask me about **My Journey and Development**<br>👨‍💻 All of my projects are available at https://github.com/Adarshraj8<br>💬 Ask me about Java and its Framework ☁️<br>📫 Reach out to me at adarshrajgr2016@gmail.com</p>
 
 ###
 
