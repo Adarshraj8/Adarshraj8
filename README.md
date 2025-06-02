@@ -91,6 +91,14 @@ Add commentMore actions<br>
 
 ###
 
+### 📈 GitHub Stats
+
+<p align="center" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshraj8&theme=radical&langs_count=10&hide_progress=false" width="50%" height="50%" />
+</p>
+###
+
+
 <h3 align="left">📺 Latest YouTube Videos</h3>
 
 ###
