@@ -29,8 +29,9 @@
 
 ###
 
-<p align="left">Hi 👋, I'm Adarsh<br>👩‍💻 Software Engineer<br><br>
-  🔭 I’m currently working at **Astravista**<br>
+<p align="left">Hi 👋, I'm Adarsh<br>
+  👩‍💻 Software Engineer<br>
+  🔭 I’m currently working at **Astravista Solutions**<br>
   🌱 I’m currently learning **Softwares and How they work**
 Add commentMore actions<br>
 - 👯 I’m looking to collaborate on **any latest tech (AI, LLMs, Low Level Langs)**<br>
