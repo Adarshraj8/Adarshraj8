@@ -149,11 +149,10 @@ Add commentMore actions<br>
 
 
 
-###
 
 <h3 align="left">🏄‍♂️ Connect with me</h3>
 
-###
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/adarshraj87/" target="_blank">
@@ -166,5 +165,5 @@ Add commentMore actions<br>
 </div>
 
 
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adarshraj8&" alt="Adarshraj8" /></p>
-###
