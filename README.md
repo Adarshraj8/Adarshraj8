@@ -47,14 +47,6 @@ Add commentMore actions<br>
 
 ###
 
-<style>
-  .tech-icon {
-    height: 32px;
-    margin: 0 6px;
-    vertical-align: middle;
-  }
-</style>
-
 <div align="left">
   <img class="tech-icon" src="https://skillicons.dev/icons?i=aws" alt="AWS" />
   <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" />
