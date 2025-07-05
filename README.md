@@ -47,20 +47,22 @@ Add commentMore actions<br>
 
 ###
 
+<style>
+  .tech-icon {
+    height: 32px;
+    margin: 0 6px;
+    vertical-align: middle;
+  }
+</style>
+
 <div align="left">
- 
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
-  
+  <img class="tech-icon" src="https://skillicons.dev/icons?i=aws" alt="AWS" />
+  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" />
+  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
+  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" />
+  <img class="tech-icon" src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" />
 </div>
+
 
 ###
 
