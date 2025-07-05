@@ -43,22 +43,21 @@ Add commentMore actions<br>
 
 ###
 
-<style>
-  .tech-icon {
-    height: 40px;
-    margin-right: 12px;
-    vertical-align: middle;
-  }
-</style>
+
 
 <h3 align="left">🛠 Tools</h3>
 
 <div align="left">
   <img class="tech-icon" src="https://skillicons.dev/icons?i=aws" alt="AWS" />
+    <img width="12" />
   <img class="tech-icon" src="https://media.istockphoto.com/id/1386726965/vector/cartoon-small-bellied-antarctic-penguin.jpg?s=1024x1024&w=is&k=20&c=0ChRplL2qqivTKuPBmdWKbTCPrS6k7Eae-IcwLWvXWA=" alt="Linux" />
+    <img width="12" />
   <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
+    <img width="12" />
   <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" />
+    <img width="12" />
   <img class="tech-icon" src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" />
+    <img width="12" />
 </div>
 
 
