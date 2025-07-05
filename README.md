@@ -49,7 +49,7 @@ Add commentMore actions<br>
 
 <div align="left">
   <img class="tech-icon" src="https://skillicons.dev/icons?i=aws" alt="AWS" />
-  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" />
+  <img class="tech-icon" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg](https://static.vecteezy.com/system/resources/previews/014/399/043/non_2x/one-penguin-standing-at-the-bottom-of-the-shadow-vector.jpg)" alt="Linux" />
   <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
   <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" />
   <img class="tech-icon" src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" />
