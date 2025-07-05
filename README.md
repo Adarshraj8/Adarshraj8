@@ -45,14 +45,12 @@ Add commentMore actions<br>
 
 <h3 align="left">🛠 Tools</h3>
 
-###
-
 <div align="left">
-  <img class="tech-icon" src="https://skillicons.dev/icons?i=aws" alt="AWS" />
-  <img class="tech-icon" src="https://media.istockphoto.com/id/1386726965/vector/cartoon-small-bellied-antarctic-penguin.jpg?s=1024x1024&w=is&k=20&c=0ChRplL2qqivTKuPBmdWKbTCPrS6k7Eae-IcwLWvXWA=" alt="Linux" />
-  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
-  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" />
-  <img class="tech-icon" src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
+  <img src="https://media.istockphoto.com/id/1386726965/vector/cartoon-small-bellied-antarctic-penguin.jpg?s=1024x1024&w=is&k=20&c=0ChRplL2qqivTKuPBmdWKbTCPrS6k7Eae-IcwLWvXWA=" height="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="Jenkins" />
 </div>
 
 
