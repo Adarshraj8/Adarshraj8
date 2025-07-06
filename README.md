@@ -50,7 +50,7 @@ Add commentMore actions<br>
 <div align="left">
   <img class="tech-icon" src="https://skillicons.dev/icons?i=aws" alt="AWS" />
     <img width="12" />
-  <img class="tech-icon" src="https://media.istockphoto.com/id/1386726965/vector/cartoon-small-bellied-antarctic-penguin.jpg?s=1024x1024&w=is&k=20&c=0ChRplL2qqivTKuPBmdWKbTCPrS6k7Eae-IcwLWvXWA=" alt="Linux" />
+  <img class="https://cdn.mos.cms.futurecdn.net/bmvXBXA2sTmgKs92hzX8rT-650-80.jpg.webp" alt="Linux" />
     <img width="12" />
   <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
     <img width="12" />
