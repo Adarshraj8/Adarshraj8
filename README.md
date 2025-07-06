@@ -52,7 +52,7 @@ Add commentMore actions<br>
     <img width="12" />
   <img class="https://cdn.mos.cms.futurecdn.net/bmvXBXA2sTmgKs92hzX8rT-650-80.jpg.webp" alt="Linux" />
     <img width="12" />
-  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
+  <img class="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" />
     <img width="12" />
   <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" />
     <img width="12" />
