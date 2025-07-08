@@ -31,7 +31,7 @@
 
 <p align="left">Hi 👋, I'm Adarsh<br>
   👩‍💻 Software Engineer<br>
-  🔭 I’m currently working at **Astravista Solution**<br>
+  🔭 I’m currently working at **P2P System Pvt.Ltd**<br>
   🌱 I’m currently learning **Softwares and How they work**
 Add commentMore actions<br>
 - 👯 I’m looking to collaborate on **any latest tech (AI, LLMs, Low Level Langs)**<br>
