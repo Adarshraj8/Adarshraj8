@@ -60,55 +60,9 @@ Add commentMore actions<br>
 ###
 
 
-<h3 align="left">📺 Latest YouTube Videos</h3>
-
-###
-
-<div align="center">
-  <img height="150" src="http://youtube.com/watch?v=VjdOS3rXIGs&pp=0gcJCbEJAYcqIYzv"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.youtube.com/@14kadarshraj3" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
-  </a>
-</div>
 
 
 ###
-## Latest Videos
-<table>
-  <tr>
-    <td>
-      <a href="https://www.youtube.com/watch?v=t6B3ICUtnzk&t=12s" target="_blank">
-        <img src="https://i.ytimg.com/vi/VjdOS3rXIGs/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA_Zr6e8U1b3D7kxPYyr2vQuY9VlA" alt="Leetcode problem solution " width="250" style="border-radius:5px;">
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=JxRwaL4ypNc&t=1s" target="_blank">
-        <img src="https://i.ytimg.com/vi/6bK5F9xhKTc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDpbrIKrwml3W-I7OfxGY3Wbp8Tkw" alt="Deploy Amazon Prime Video Clone On EKS Cluster" width="250" style="border-radius:5px;">
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=ZzNP0P35Kio&t=1094s" target="_blank">
-        <img src="https://i.ytimg.com/vi/VjdOS3rXIGs/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA_Zr6e8U1b3D7kxPYyr2vQuY9VlA" alt="leetcode problem" width="250" style="border-radius:5px;">
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=Mb9FunzUcrc&t=48s" target="_blank">
-        <img src="https://i.ytimg.com/vi/Q0VF9Ms2_WM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCOV0kjh2DwV8zxngLDS4ssQim_oA" alt="Leetcode vedio" width="250" style="border-radius:5px;">
-      </a>
-    </td>
-  </tr>
-  <tr>
-  </tr>
-</table>
-
-
-
-
 ###
 <h3 align="left">🏄‍♂️ Connect with me</h3>
   <div align="left">
